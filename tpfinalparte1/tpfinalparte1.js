@@ -1,7 +1,7 @@
 // TP#Final Parte 1 - Comisión 3, David Bedoian
 // Ludmila Prost 119117/5 - Santiago Martin 120340/6
 // Película elegida: Intensamente
-// Video explicativo: 
+// Video explicativo: https://youtu.be/2voW4nNPOkU
 let apuntador = 0;
 let pantalla = 0;
 let textos = [];
