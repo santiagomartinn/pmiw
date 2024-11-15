@@ -1,0 +1,15 @@
+1#Riley vive feliz en Minnesota. Sus emociones mantienen el equilibrio en su mente, pero le dan una noticia inesperada, va a mudarse a San Francisco. ¿A Riley le afecta mudarse? 
+2#Riley deberá enfrentarse a este gran cambio en su vida. ¿Se adapta al cambio? 
+3#Alegría intenta que Tristeza no afecte la personalidad de Riley y en esta nueva etapa, intenta mantener a Riley siempre feliz. ¿Lo logra? 
+4#Tristeza transforma un pensamiento central en uno triste, discute con alegría por esto y son expulsadas del control por discutir, Riley queda bajo el mando de Furia, Temor y Desagrado. ¿Furia toma el control? 
+5#Riley se siente desconectada y desorientada sin Alegría. Las emociones restantes no logran controlar la situación. ¿Temor lo logra? 
+6#Alegría y Tristeza se pierden en la mente de Riley y comienzan su viaje por las profundidades del subconsciente. ¿Encuentran el camino correcto? 
+7#Tristeza toma todo el control y Riley no vuelve a ser la de antes. 
+8#Furia toma el control de Riley y explota de ira. ¿Furia continua con el control? 
+9#Desagrado toma el control de Riley y empieza a rechazar todo lo nuevo. ¿Desagrado continua con el control? 
+10#Riley decide huir de casa y la falta de control emocional la lleva a tomar decisiones impulsivas. ¿Alegría y Tristeza llegan a tiempo? 
+11#Alegría y Tristeza regresan a la sala de control y se enfrentan al reto de equilibrar las emociones. ¿Alegria toma el control?
+12#Tristeza toma el control por completo. Riley se siente profundamente triste y desconectada. ¿Riley decide buscar ayuda? 
+13#Riley sigue adelante con su decisión impulsiva y se aleja de su familia. 
+14#Alegría toma el control y Riley se reconcilia con sus emociones y su familia.
+
