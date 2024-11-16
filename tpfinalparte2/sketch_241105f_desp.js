@@ -1,6 +1,7 @@
 // TP#Final Parte 2 - Comisión 3, David Bedoian
 // Ludmila Prost 119117/5 - Santiago Martin 120340/6
 // Película elegida: Intensamente
+// Video explicativo: https://youtu.be/O4t6P9qYsKI
 let juego;
 let img;
 let imgInstrucciones; // Imagen para las instrucciones
